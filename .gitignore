@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+state/
+*.egg-info/
+dist/
+build/
+.env
+deploy/seaweedfs-s3.json
+
+# Module secrets (shipped to the fleet, never committed)
+modules/*/config/provider-config.yaml
+.temporal/

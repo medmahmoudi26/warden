@@ -1,0 +1,1 @@
+{"hidden_finished":0,"machines":[{"name":"203.0.113.10","state":"connected"},{"name":"wf-spike002-01","state":"connected"}],"terminals":[{"address":"wf-spike002-01/t1","agent":"bash","cwd":"/root","name":"spiketest-shard-00-a1","state":"live","turn":0}]}
